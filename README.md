@@ -1,7 +1,7 @@
 # all-about-installations
 some installation instructions compiled over the internet. I will keep on adding
 
-## Install intel oneAPI tool kit
+## Install intel oneAPI tool kit in UBUNTU
 
 ###Install the required drivers
 #### Add package repository
